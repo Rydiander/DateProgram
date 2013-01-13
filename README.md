@@ -1,4 +1,4 @@
-RailsDemo
+DateProgram
 =========
 
-Repository for my Rails Demo
+Repository for my Date Program
